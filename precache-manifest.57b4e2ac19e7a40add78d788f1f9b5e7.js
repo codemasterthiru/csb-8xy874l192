@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f454e6f3127bbbedd7f4",
-    "url": "https://codemasterthiru.github.io/csb-8xy874l192/static/css/main.687aae45.chunk.css"
+    "revision": "cda30c147a668833215a",
+    "url": "https://codemasterthiru.github.io/csb-8xy874l192/static/css/main.0608d903.chunk.css"
   },
   {
-    "revision": "f454e6f3127bbbedd7f4",
-    "url": "https://codemasterthiru.github.io/csb-8xy874l192/static/js/main.18919320.chunk.js"
+    "revision": "cda30c147a668833215a",
+    "url": "https://codemasterthiru.github.io/csb-8xy874l192/static/js/main.b6744aae.chunk.js"
   },
   {
     "revision": "6326352f7ad713a77b6e",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://codemasterthiru.github.io/csb-8xy874l192/static/js/2.8d7e39be.chunk.js"
   },
   {
-    "revision": "6e3bd913379933e756d66c4a47859f61",
+    "revision": "ebb63c9b4cc6450b4007002aa3b940fa",
     "url": "https://codemasterthiru.github.io/csb-8xy874l192/index.html"
   }
 ];
